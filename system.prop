@@ -87,3 +87,6 @@ ro.sf.lcd_density=240
 
 #Set composition for USB
 persist.sys.usb.config=diag,serial_smd,rmnet_bam,adb
+
+#property to enable narrow search range for video encoding
+vidc.enc.narrow.searchrange=1
